@@ -3,6 +3,6 @@ A nasty Magento autofixer for [magento/Magento2/#6639](https://github.com/magent
 
 A horrible hack that pings some local paths to see that the cached version isn't empty / has the rights DOM elements.
 
-*Absolutely do not use in production*
+### Absolutely do not use in production
 
 Requires [https://github.com/ericchiang/pup](pup)
