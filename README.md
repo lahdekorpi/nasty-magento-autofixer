@@ -5,4 +5,4 @@ A horrible hack that pings some local paths to see that the cached version isn't
 
 ### Absolutely do not use in production
 
-Requires [https://github.com/ericchiang/pup](pup)
+Requires [pup](https://github.com/ericchiang/pup)
